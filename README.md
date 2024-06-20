@@ -11,7 +11,7 @@ Voilà, install macOS! This is really and magic **easiest way**!
 ## COPY & PASTE - in shell of Proxmox (for Install or Update this solution)
 
 ```
-/bin/bash -c "$(curl -fsSL https://install.osx-proxmox.com)"
+/bin/bash -c "$(curl -fsSL https://github.com/Cyb3rChi3f/OSX-PROXMOX/blob/ebbf3685a5c011aae8d4d8247bb94790db6498b9/install.sh)"
 ```
 
 ## For install EFI Package in macOS, first disable Gatekeeper
